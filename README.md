@@ -12,11 +12,13 @@ Small collection of helpers and created for Dart
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
+publish_to: none
 dependencies:
     tglima_dart_framework: 
         git:
-            url: https://github.com/tglima/tglima_dart_framework
-            ref: stable
+            url: https://github.com/tglima/Dart-Framework
+            ref: main
+            version: ^0.1.20220807
 ```
 #### 2. Install it
 
