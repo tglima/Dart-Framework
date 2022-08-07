@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "tglima_dart_framework",
+            "name": "run example",
             "request": "launch",
             "type": "dart",
             "program": "example/tglima_dart_framework_example.dart"
