@@ -1,6 +1,6 @@
 name: tglima_dart_framework
 description: Small collection of helpers created for Dart
-version: 0.1.0
+version: 0.1.20220807
 homepage: https://tglima.github.io/
 
 environment:
