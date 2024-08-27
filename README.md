@@ -4,7 +4,7 @@
 Small collection of helpers and created for Dart
 
 ## Requirements
-* [Dart SDK](https://dart.dev/get-dart) 2.17.x
+* [Dart SDK](https://dart.dev/get-dart) 3.5.x
 
 ## Instalation
 ### 1. Depend on it
@@ -18,7 +18,7 @@ dependencies:
         git:
             url: https://github.com/tglima/Dart-Framework
             ref: main
-            version: ^0.1.20220807
+            version: ^3.5.20240827
 ```
 #### 2. Install it
 
