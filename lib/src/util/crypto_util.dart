@@ -4,7 +4,7 @@ import 'package:tglima_dart_framework/src/util/constant_util.dart';
 import 'package:tglima_dart_framework/src/interface/crypto_interface.dart';
 
 class CryptoUtil implements CryptoAbstract {
-  final iv = IV.fromLength(16);
+  final iv = IV.fromBase64('AAAAAAAAAAAAAAAAAAAAAA==');
   String _keyCrypt = '';
   final String endKeyCrypt = '__JesusS4lv@';
   dynamic _encrypter;
